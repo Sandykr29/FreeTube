@@ -21,6 +21,7 @@ export const PlayVideo = () => {
             <span><img src={save} alt="" />Save</span>
             </div>
         </div>
+        <hr />
         <div className="publisher">
             <img src={jack} alt="" />
             <div>
@@ -29,23 +30,56 @@ export const PlayVideo = () => {
             </div>
             <button>Subscribe</button>
         </div>
-        <div className="vid-description"></div>
-        <p>Channel that makes learning Easy</p>
-        <p>Subscribe SandykrChannels to Watch More Tutorials on web development</p>
-        <hr />
-        <h4>130 Comments</h4>
-        <div className="comment">
-            <img src={user_profile} alt="" />
-            <div>
-    </div>
-        <h3>Jack Nicholson <span>1 day ago</span></h3>
-        <p>A global computer network providing a variety of information and covers interconnected network providing a variety of information</p>
-        <div className="comment-action">
-            <img src={like} alt="" />
-            <span>244</span>
-            <img src={dislike} alt="" />
+        <div className="vid-description">
+            <p>Channel that makes learning Easy</p>
+            <p>Subscribe GreatStack to Watch More Tutorials on web development</p>
+            <hr />
+            <h4>130 Comments</h4>
+            <div className='comment'>
+                <img src={user_profile} alt="" />
+                <div>
+                    <h3>
+                        Jack Nicholson <span>1 day ago</span>
+                    </h3>
+                    <p>A global computer network providing a variety of information and course of interconnected networks using standardized communicatioin.</p>
+                    <div className="comment-action">
+                        <img src={like} alt="" />
+                        <span>244</span>
+                        <img src={dislike} alt="" />
+                    </div>
+                </div>
+            </div>
+            <div className='comment'>
+                <img src={user_profile} alt="" />
+                <div>
+                    <h3>
+                        Jack Nicholson <span>1 day ago</span>
+                    </h3>
+                    <p>A global computer network providing a variety of information and course of interconnected networks using standardized communicatioin.</p>
+                    <div className="comment-action">
+                        <img src={like} alt="" />
+                        <span>244</span>
+                        <img src={dislike} alt="" />
+                    </div>
+                </div>
+            </div>
+            <div className='comment'>
+                <img src={user_profile} alt="" />
+                <div>
+                    <h3>
+                        Jack Nicholson <span>1 day ago</span>
+                    </h3>
+                    <p>A global computer network providing a variety of information and course of interconnected networks using standardized communicatioin.</p>
+                    <div className="comment-action">
+                        <img src={like} alt="" />
+                        <span>244</span>
+                        <img src={dislike} alt="" />
+                    </div>
+                </div>
+            </div>
+            
         </div>
-    </div>
+  
     </div>
   )
 }
