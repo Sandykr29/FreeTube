@@ -24,3 +24,7 @@
 .card p{
     font-size: 14px;
 }
+.card img{
+    width: 100%;
+    border-radius: 5px;
+}
