@@ -11,7 +11,10 @@ import thumbnail8 from "../../assets/thumbnail8.png"
 import { Link } from 'react-router-dom';
 
 
-export const Feed = () => {
+export const Feed = ({category}) => {
+    const fetchData=async()=>{
+        const videoList_url=``
+    }
   return (
     <div className='feed'>
         <Link to={`video/20/4521`} className="card">
