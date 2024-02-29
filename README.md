@@ -4,7 +4,7 @@ FreeTube is a project created by Sandeep Kumar. It's a clone of the popular vide
 
 Deployment
 
-The FreeTube project is currently deployed and accessible at: FreeTube Deployment Link
+The FreeTube project is currently deployed and accessible at: [FreeTube Deployment Link](https://freetubeyoutube.netlify.app/)
 
 Features
 
