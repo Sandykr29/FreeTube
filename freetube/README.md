@@ -1,72 +1,49 @@
-# Getting Started with Create React App
+FreeTube
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+FreeTube is a project created by Sandeep Kumar. It's a clone of the popular video-sharing platform YouTube. The project is built using React, HTML, CSS, and JavaScript.
 
-## Available Scripts
+Deployment
 
-In the project directory, you can run:
+The FreeTube project is currently deployed and accessible at: FreeTube Deployment Link
 
-### `npm start`
+Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Replicates the core functionalities of YouTube
+Allows users to watch videos
+Displays video details such as title, views, and description
+Displays realtime information about user interaction features like liking, disliking, sharing, and saving videos
+Provides comment sections for users to engage in discussions
+Responsive design for easy access across devices
+Technologies Used
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+React
+HTML
+CSS
+JavaScript
+Pages
 
-### `npm test`
+Home: Landing page displaying videos and search functionality
+Watch: Page for watching individual videos with video details and comments
+Images
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Images used in the project can be found in the assets folder of the GitHub repository.
 
-### `npm run build`
+Author
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Sandeep Kumar
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Getting Started
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+To run the FreeTube project locally, follow these steps:
 
-### `npm run eject`
+Clone the repository: git clone https://github.com/Sandykr29/FreeTube
+Navigate to the project directory: cd FreeTube
+Install dependencies: npm install
+Start the development server: npm start
+Open your browser and visit: http://localhost:3000
+Contributing
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Contributions to the FreeTube project are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request on the GitHub repository.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
